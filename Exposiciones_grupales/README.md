@@ -6,4 +6,4 @@
 
 ---
 
-Registro de la selección aleatoria realizada el 2026-03-31.
+Registro de la selección aleatoria realizada el 2026-03-31 por GitHub Copilot.
